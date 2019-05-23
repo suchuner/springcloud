@@ -1,0 +1,4 @@
+com\suchuner\hello\spring\cloud\zuul\ZuulApplication.class
+com\suchuner\hello\spring\cloud\zuul\provide\WebAdminFeignFallbackProdiver$1.class
+com\suchuner\hello\spring\cloud\zuul\filter\LoginFilter.class
+com\suchuner\hello\spring\cloud\zuul\provide\WebAdminFeignFallbackProdiver.class
