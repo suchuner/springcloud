@@ -1,4 +1,0 @@
-com\suchuner\hello\web\admin\ribbon\config\RibbonConfig.class
-com\suchuner\hello\web\admin\ribbon\controller\AdminController.class
-com\suchuner\hello\web\admin\ribbon\service\AdminServer.class
-com\suchuner\hello\web\admin\ribbon\WebAdminRibbonApplication.class
